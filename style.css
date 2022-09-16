@@ -1,12 +1,11 @@
 body
 {
     text-align: center;
-    border-radius: 10px;
-    border-color: blue;
-    background-color: aquamarine;
+    background: linear-gradient(#922724 0%,#d4af37 0%, #003153 100%);
 }
 h1,h2,h3
 {
-    font-family: Comic ;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;  
+    
     color: #FFFFFF;
 }
